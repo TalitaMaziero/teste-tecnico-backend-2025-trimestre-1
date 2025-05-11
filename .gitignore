@@ -1,0 +1,22 @@
+# node modules e logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# sistema operacional
+.DS_Store
+Thumbs.db
+
+# editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Docker
+*.pid
